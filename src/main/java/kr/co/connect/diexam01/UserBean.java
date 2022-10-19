@@ -1,4 +1,4 @@
-package kr.co.connect;
+package kr.co.connect.diexam01;
 
 public class UserBean {
 

@@ -1,4 +1,4 @@
-package kr.co.connect;
+package kr.co.connect.diexam01;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
